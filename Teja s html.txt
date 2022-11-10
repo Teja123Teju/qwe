@@ -1,0 +1,18 @@
+< html> 
+ <head>
+  <title>POEM</title>
+</head>
+<body>
+<h1>POEM1</h1>
+<h2>THE ROSE FAMILY</h2>
+<per><p>
+The rose is a rose,
+And was always a rose.
+But the theory now goes 
+That the apple's a rose,
+And the pear is, and so's 
+the plum, I suppose.
+the dear only knows 
+what will next prove a rose.
+You of cource, are a rose-
+but were always a rose.
